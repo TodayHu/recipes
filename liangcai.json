@@ -1,0 +1,1410 @@
+{
+    "error_code": 0,
+    "reason": "成功",
+    "result": [{
+        "id": 892782,
+        "title": "龙须拌土豆丝",
+        "tags": "凉菜;增强免疫力;家常菜;拌;",
+        "intro": "天气越来越热了，于是特别喜欢吃凉菜，清清爽爽的，吃起来很舒服!今天做的是龙须菜拌土豆丝，土豆丝清香，龙须菜清脆，很简单的一道家常菜！",
+        "ingredients": "龙须菜:50g;土豆:100g;",
+        "burden": "香油:适量;盐:适量;醋:适量;酱油:适量;鸡精:适量;尖椒丝:适量;",
+        "albums": "http://imgs.haoservice.com/CaiPu/pic/recipe/l/6e/9f/892782_a233ce.jpg",
+        "steps": [{
+            "img": "http://imgs.haoservice.com/CaiPu/pic/step/m/ac/91/3707308.jpg",
+            "step": "1.土豆去皮"
+        },
+        {
+            "img": "http://imgs.haoservice.com/CaiPu/pic/step/m/ad/91/3707309.jpg",
+            "step": "2.擦丝，泡一下"
+        },
+        {
+            "img": "http://imgs.haoservice.com/CaiPu/pic/step/m/ae/91/3707310.jpg",
+            "step": "3.焯一下"
+        },
+        {
+            "img": "http://imgs.haoservice.com/CaiPu/pic/step/m/b0/91/3707312.jpg",
+            "step": "4.捞出过凉水，控水"
+        },
+        {
+            "img": "http://imgs.haoservice.com/CaiPu/pic/step/m/af/91/3707311.jpg",
+            "step": "5.龙须提前泡透，洗净，摘成小段"
+        },
+        {
+            "img": "http://imgs.haoservice.com/CaiPu/pic/step/m/b1/91/3707313.jpg",
+            "step": "6.尖椒丝、龙须菜、土豆丝放在一起"
+        },
+        {
+            "img": "http://imgs.haoservice.com/CaiPu/pic/step/m/b2/91/3707314.jpg",
+            "step": "7.放盐"
+        },
+        {
+            "img": "http://imgs.haoservice.com/CaiPu/pic/step/m/b3/91/3707315.jpg",
+            "step": "8.放醋"
+        },
+        {
+            "img": "http://imgs.haoservice.com/CaiPu/pic/step/m/b4/91/3707316.jpg",
+            "step": "9.放香油"
+        },
+        {
+            "img": "http://imgs.haoservice.com/CaiPu/pic/step/m/b5/91/3707317.jpg",
+            "step": "10.放酱油"
+        },
+        {
+            "img": "http://imgs.haoservice.com/CaiPu/pic/step/m/b6/91/3707318.jpg",
+            "step": "11.放鸡精"
+        },
+        {
+            "img": "http://imgs.haoservice.com/CaiPu/pic/step/m/b7/91/3707319.jpg",
+            "step": "12.拌匀即可"
+        },
+        {
+            "img": "http://imgs.haoservice.com/CaiPu/pic/step/m/b8/91/3707320.jpg",
+            "step": "13.装盘"
+        }]
+    },
+    {
+        "id": 892778,
+        "title": "芝麻茼蒿",
+        "tags": "凉菜;增强免疫力;家常菜;拌;",
+        "intro": "这个季节，茼蒿开始大量上市了，便经常买上一些拿来做菜。今天做的是芝麻茼蒿，清香可口，很不错的一道凉拌小菜儿。",
+        "ingredients": "茼蒿:200g;",
+        "burden": "熟白芝麻:适量;盐:适量;蒜瓣:适量;醋:适量;酱油:适量;香油:适量;",
+        "albums": "http://imgs.haoservice.com/CaiPu/pic/recipe/l/6a/9f/892778_61c11c.jpg",
+        "steps": [{
+            "img": "http://imgs.haoservice.com/CaiPu/pic/step/m/7d/91/3707261.jpg",
+            "step": "1.茼蒿洗净"
+        },
+        {
+            "img": "http://imgs.haoservice.com/CaiPu/pic/step/m/7e/91/3707262.jpg",
+            "step": "2.切段"
+        },
+        {
+            "img": "http://imgs.haoservice.com/CaiPu/pic/step/m/7f/91/3707263.jpg",
+            "step": "3.焯一下"
+        },
+        {
+            "img": "http://imgs.haoservice.com/CaiPu/pic/step/m/88/91/3707272.jpg",
+            "step": "4.控水"
+        },
+        {
+            "img": "http://imgs.haoservice.com/CaiPu/pic/step/m/89/91/3707273.jpg",
+            "step": "5.蒜瓣捣成泥"
+        },
+        {
+            "img": "http://imgs.haoservice.com/CaiPu/pic/step/m/8a/91/3707274.jpg",
+            "step": "6.放香油、盐、醋、酱油拌匀"
+        },
+        {
+            "img": "http://imgs.haoservice.com/CaiPu/pic/step/m/8b/91/3707275.jpg",
+            "step": "7.放在茼蒿上"
+        },
+        {
+            "img": "http://imgs.haoservice.com/CaiPu/pic/step/m/8c/91/3707276.jpg",
+            "step": "8.放熟白芝麻"
+        },
+        {
+            "img": "http://imgs.haoservice.com/CaiPu/pic/step/m/8d/91/3707277.jpg",
+            "step": "9.拌匀即可"
+        },
+        {
+            "img": "http://imgs.haoservice.com/CaiPu/pic/step/m/8e/91/3707278.jpg",
+            "step": "10.上桌喽"
+        }]
+    },
+    {
+        "id": 891646,
+        "title": "凉拌杏鲍菇",
+        "tags": "凉菜;增强免疫力;家常菜;拌;",
+        "intro": "杏鲍菇具有杏仁香味，肉质肥厚，口感鲜嫩，味道清香，营养丰富，能烹饪出几十道美味佳肴。还具有降血脂、降胆固醇、促进胃肠消化、增强机体免疫能力、防止心血管病等功效，极受人们喜爱。今天做的这道菜是凉拌杏鲍菇，清香可口，味道鲜美的一道凉拌小菜儿。",
+        "ingredients": "杏鲍菇:150g;",
+        "burden": "蒜苗:适量;盐:适量;醋:适量;酱油:适量;",
+        "albums": "http://imgs.haoservice.com/CaiPu/pic/recipe/l/fe/9a/891646_2636fc.jpg",
+        "steps": [{
+            "img": "http://imgs.haoservice.com/CaiPu/pic/step/m/d8/77/3700696.jpg",
+            "step": "1.杏鲍菇洗净"
+        },
+        {
+            "img": "http://imgs.haoservice.com/CaiPu/pic/step/m/d9/77/3700697.jpg",
+            "step": "2.切片"
+        },
+        {
+            "img": "http://imgs.haoservice.com/CaiPu/pic/step/m/da/77/3700698.jpg",
+            "step": "3.焯一下"
+        },
+        {
+            "img": "http://imgs.haoservice.com/CaiPu/pic/step/m/db/77/3700699.jpg",
+            "step": "4.过凉水，控水"
+        },
+        {
+            "img": "http://imgs.haoservice.com/CaiPu/pic/step/m/dc/77/3700700.jpg",
+            "step": "5.蒜苗切碎"
+        },
+        {
+            "img": "http://imgs.haoservice.com/CaiPu/pic/step/m/dd/77/3700701.jpg",
+            "step": "6.放在杏鲍菇上"
+        },
+        {
+            "img": "http://imgs.haoservice.com/CaiPu/pic/step/m/de/77/3700702.jpg",
+            "step": "7.放盐"
+        },
+        {
+            "img": "http://imgs.haoservice.com/CaiPu/pic/step/m/df/77/3700703.jpg",
+            "step": "8.放醋"
+        },
+        {
+            "img": "http://imgs.haoservice.com/CaiPu/pic/step/m/e0/77/3700704.jpg",
+            "step": "9.放酱油"
+        },
+        {
+            "img": "http://imgs.haoservice.com/CaiPu/pic/step/m/e1/77/3700705.jpg",
+            "step": "10.拌匀即可"
+        },
+        {
+            "img": "http://imgs.haoservice.com/CaiPu/pic/step/m/e2/77/3700706.jpg",
+            "step": "11.装盘"
+        }]
+    },
+    {
+        "id": 893612,
+        "title": "酸甜拌木瓜",
+        "tags": "凉菜;拌;酸甜;",
+        "intro": "做为地地道道广西百色人酸酸甜甜的凉拌犹为的钟爱，说到凉拌酸嘢喝酒的、吃烧烤的少不了会来一碟酸的，特别是现在炎热火的夏天吃点酸酸甜甜的好开胃！",
+        "ingredients": "木瓜:1个;",
+        "burden": "白醋:1瓶盖;盐:适量;白糖:适量;",
+        "albums": "http://imgs.haoservice.com/CaiPu/pic/recipe/l/ac/a2/893612_eb30b8.jpg",
+        "steps": [{
+            "img": "http://imgs.haoservice.com/CaiPu/pic/step/m/cc/a4/3712204.jpg",
+            "step": "1.木瓜要选用皮为青黄色时的，半熟木瓜，全黄或大面积黄的按下去在点软了，都是熟了。"
+        },
+        {
+            "img": "http://imgs.haoservice.com/CaiPu/pic/step/m/cd/a4/3712205.jpg",
+            "step": "2.木瓜去皮切半。"
+        },
+        {
+            "img": "http://imgs.haoservice.com/CaiPu/pic/step/m/ce/a4/3712206.jpg",
+            "step": "3.用切丝器擦成细丝。"
+        },
+        {
+            "img": "http://imgs.haoservice.com/CaiPu/pic/step/m/cf/a4/3712207.jpg",
+            "step": "4.加入一瓶盖的白醋。"
+        },
+        {
+            "img": "http://imgs.haoservice.com/CaiPu/pic/step/m/d1/a4/3712209.jpg",
+            "step": "5.适量盐和糖。"
+        },
+        {
+            "img": "http://imgs.haoservice.com/CaiPu/pic/step/m/d2/a4/3712210.jpg",
+            "step": "6.搅拌均匀试下味道，腌制20分钟即可食用。"
+        }]
+    },
+    {
+        "id": 893603,
+        "title": "凉拌粉皮",
+        "tags": "凉菜;单身;增强免疫力;家常菜;开胃;滋阴润燥;",
+        "intro": "凉拌粉皮是最常见的家常小菜之一，做法简单，口感嫩滑清爽，是夏季不可不吃的清爽祛暑小菜。",
+        "ingredients": "干粉皮:2张;黄瓜:100g;胡萝卜:100g;",
+        "burden": "香油:适量;盐:适量;大蒜:适量;花生酱:适量;醋:适量;红油:适量;生抽:适量;",
+        "albums": "http://imgs.haoservice.com/CaiPu/pic/recipe/l/a3/a2/893603_6d5156.jpg",
+        "steps": [{
+            "img": "http://imgs.haoservice.com/CaiPu/pic/step/m/d3/a4/3712211.jpg",
+            "step": "1.准备好所用原料。"
+        },
+        {
+            "img": "http://imgs.haoservice.com/CaiPu/pic/step/m/d4/a4/3712212.jpg",
+            "step": "2. 黄瓜 胡萝卜洗净，切成丝，放入碗中。"
+        },
+        {
+            "img": "http://imgs.haoservice.com/CaiPu/pic/step/m/d5/a4/3712213.jpg",
+            "step": "3.大蒜去皮，拍成蒜蓉。"
+        },
+        {
+            "img": "http://imgs.haoservice.com/CaiPu/pic/step/m/d6/a4/3712214.jpg",
+            "step": "4.取2张干粉皮，放入锅中，加入水，没过粉皮，煮至4分钟。"
+        },
+        {
+            "img": "http://imgs.haoservice.com/CaiPu/pic/step/m/d7/a4/3712215.jpg",
+            "step": "5.粉皮煮至透明后捞入冷水中冲凉。"
+        },
+        {
+            "img": "http://imgs.haoservice.com/CaiPu/pic/step/m/da/a4/3712218.jpg",
+            "step": "6. 沥干水分后切成条状。"
+        },
+        {
+            "img": "http://imgs.haoservice.com/CaiPu/pic/step/m/d9/a4/3712217.jpg",
+            "step": "7.取一碗，加入花生酱 醋 盐 香油 红油 生抽 蒜蓉调拌均匀成料汁。"
+        },
+        {
+            "img": "http://imgs.haoservice.com/CaiPu/pic/step/m/db/a4/3712219.jpg",
+            "step": "8.将粉皮放入带有黄瓜 胡萝卜丝的碗中。"
+        },
+        {
+            "img": "http://imgs.haoservice.com/CaiPu/pic/step/m/d8/a4/3712216.jpg",
+            "step": "9.浇上料汁，搅拌均匀即可。"
+        }]
+    },
+    {
+        "id": 892302,
+        "title": "椿意盎然",
+        "tags": "午餐;家常菜;拌;凉菜;",
+        "intro": "很喜欢吃香椿，家里也有很多的香椿树。从它们刚刚露出小小弱弱的胚芽开始，就期待着它们长大。我比较喜欢吃我们这里传统的吃法，简单，原汁原味！",
+        "ingredients": "香椿:250g;",
+        "burden": "盐:适量;",
+        "albums": "http://imgs.haoservice.com/CaiPu/pic/recipe/l/8e/9d/892302_128e86.jpg",
+        "steps": [{
+            "img": "http://imgs.haoservice.com/CaiPu/pic/step/m/a4/96/3708580.jpg",
+            "step": "1.新鲜的香椿芽。"
+        },
+        {
+            "img": "http://imgs.haoservice.com/CaiPu/pic/step/m/a5/96/3708581.jpg",
+            "step": "2.香椿洗净。"
+        },
+        {
+            "img": "http://imgs.haoservice.com/CaiPu/pic/step/m/a6/96/3708582.jpg",
+            "step": "3.锅里放水煮沸。"
+        },
+        {
+            "img": "http://imgs.haoservice.com/CaiPu/pic/step/m/a7/96/3708583.jpg",
+            "step": "4.把洗干净的香椿放滚水里，变色即可捞出。"
+        },
+        {
+            "img": "http://imgs.haoservice.com/CaiPu/pic/step/m/a8/96/3708584.jpg",
+            "step": "5.放在凉水里过凉。"
+        },
+        {
+            "img": "http://imgs.haoservice.com/CaiPu/pic/step/m/a9/96/3708585.jpg",
+            "step": "6.撒适量盐。"
+        },
+        {
+            "img": "http://imgs.haoservice.com/CaiPu/pic/step/m/aa/96/3708586.jpg",
+            "step": "7.用手抓匀即可。"
+        },
+        {
+            "img": "http://imgs.haoservice.com/CaiPu/pic/step/m/ab/96/3708587.jpg",
+            "step": "8.摆盘。"
+        }]
+    },
+    {
+        "id": 892888,
+        "title": "紫甘蓝拌西红柿",
+        "tags": "凉菜;增强免疫力;沙拉;素菜;减肥;",
+        "intro": "广东早早地进入夏天模式啦,所以凉菜大行其道~!家里没什么食材,所以就充分利用手头上的材料,随便拌拌都很好吃啊,苹果是关键,拌后儿子最喜欢吃的就是苹果了,酸酸甜甜的,没有红酒醋可以用白醋,风味不一样,差许多!",
+        "ingredients": "紫甘蓝:80g;西红柿:80g;苹果:80g;",
+        "burden": "香油:适量;盐:适量;生抽:适量;红酒醋:适量;细砂糖:适量;白芝麻:适量;",
+        "albums": "http://imgs.haoservice.com/CaiPu/pic/recipe/l/d8/9f/892888_aef124.jpg",
+        "steps": [{
+            "img": "http://imgs.haoservice.com/CaiPu/pic/step/m/79/94/3708025.jpg",
+            "step": "1.准备好食材,洗净;"
+        },
+        {
+            "img": "http://imgs.haoservice.com/CaiPu/pic/step/m/7a/94/3708026.jpg",
+            "step": "2.番茄切成小块;"
+        },
+        {
+            "img": "http://imgs.haoservice.com/CaiPu/pic/step/m/7b/94/3708027.jpg",
+            "step": "3.紫甘蓝切成细丝;"
+        },
+        {
+            "img": "http://imgs.haoservice.com/CaiPu/pic/step/m/7c/94/3708028.jpg",
+            "step": "4.苹果也切成丝;"
+        },
+        {
+            "img": "http://imgs.haoservice.com/CaiPu/pic/step/m/7d/94/3708029.jpg",
+            "step": "5.三种食材都装入一个大的容器中;国"
+        },
+        {
+            "img": "http://imgs.haoservice.com/CaiPu/pic/step/m/7e/94/3708030.jpg",
+            "step": "6.加入一点点盐,生抽,加入红酒醋;"
+        },
+        {
+            "img": "http://imgs.haoservice.com/CaiPu/pic/step/m/7f/94/3708031.jpg",
+            "step": "7.少许的白糖,香油,炒香的白芝麻等;"
+        },
+        {
+            "img": "http://imgs.haoservice.com/CaiPu/pic/step/m/80/94/3708032.jpg",
+            "step": "8.拌匀入味;"
+        },
+        {
+            "img": "http://imgs.haoservice.com/CaiPu/pic/step/m/81/94/3708033.jpg",
+            "step": "9.约五分钟左右,即可装盘享用."
+        }]
+    },
+    {
+        "id": 892648,
+        "title": "美味口水鸡",
+        "tags": "凉菜;拌;春季;香辣;",
+        "intro": "前几天去某川菜馆吃了这道口水鸡，一发不可收拾了，总想着，口水就出来了，真是好吃啊！今天自己动手了，出来的成品就是这了，老公说好吃到爆！你也来试试吧。",
+        "ingredients": "三黄鸡:半只;",
+        "burden": "辣椒油:适量;盐:适量;生姜:适量;蒜粒:适量;小葱:适量;香酥豆:适量;花椒油:适量;",
+        "albums": "http://imgs.haoservice.com/CaiPu/pic/recipe/l/e8/9e/892648_333227.jpg",
+        "steps": [{
+            "img": "http://imgs.haoservice.com/CaiPu/pic/step/m/a7/8e/3706535.jpg",
+            "step": "1.鸡洗净放姜片，小葱放水没过鸡煮开"
+        },
+        {
+            "img": "http://imgs.haoservice.com/CaiPu/pic/step/m/a8/8e/3706536.jpg",
+            "step": "2.开水后煮3分钟即可"
+        },
+        {
+            "img": "http://imgs.haoservice.com/CaiPu/pic/step/m/a9/8e/3706537.jpg",
+            "step": "3.起锅下冰水里（我提前准备好的冰块）"
+        },
+        {
+            "img": "http://imgs.haoservice.com/CaiPu/pic/step/m/aa/8e/3706538.jpg",
+            "step": "4.做酱汁了，原材料来了"
+        },
+        {
+            "img": "http://imgs.haoservice.com/CaiPu/pic/step/m/ab/8e/3706539.jpg",
+            "step": "5.拍碎"
+        },
+        {
+            "img": "http://imgs.haoservice.com/CaiPu/pic/step/m/ac/8e/3706540.jpg",
+            "step": "6.倒入生抽，少许冰糖，陈醋，花椒油"
+        },
+        {
+            "img": "http://imgs.haoservice.com/CaiPu/pic/step/m/ad/8e/3706541.jpg",
+            "step": "7.香酥豆"
+        },
+        {
+            "img": "http://imgs.haoservice.com/CaiPu/pic/step/m/ae/8e/3706542.jpg",
+            "step": "8.拍碎"
+        },
+        {
+            "img": "http://imgs.haoservice.com/CaiPu/pic/step/m/af/8e/3706543.jpg",
+            "step": "9.将泡好的姜蒜汁倒入豆豆里，加入辣椒油（辣椒油的做法见菜谱：http://www.haodou.com/recipe/888562）"
+        },
+        {
+            "img": "http://imgs.haoservice.com/CaiPu/pic/step/m/b0/8e/3706544.jpg",
+            "step": "10.冰镇的鸡切块"
+        },
+        {
+            "img": "http://imgs.haoservice.com/CaiPu/pic/step/m/b2/8e/3706546.jpg",
+            "step": "11.浇上汁料"
+        },
+        {
+            "img": "http://imgs.haoservice.com/CaiPu/pic/step/m/b3/8e/3706547.jpg",
+            "step": "12.好好吃哦，美味看得见吧"
+        }]
+    },
+    {
+        "id": 889190,
+        "title": "芝麻豇豆",
+        "tags": "凉菜;家常菜;拌;",
+        "intro": "今天拿一把豇豆，做了这份芝麻豇豆，清爽可口，味道还不错呢！而且，豇豆营养丰富，豇豆提供了易于消化吸收的优质蛋白质，适量的碳水化合物及多种维生素、微量元素等，可补充机体的招牌营养素；所含B族维生素能维持正常的消化腺分泌和胃肠道蠕动的功能，抑制胆碱酶活性，可帮助消化，增进食欲；豇豆中所含维生素C能促进抗体的合成，提高机体抗病毒的作用。",
+        "ingredients": "豇豆:100g;",
+        "burden": "芝麻:适量;盐:适量;醋:适量;酱油:适量;香油:适量;",
+        "albums": "http://imgs.haoservice.com/CaiPu/pic/recipe/l/66/91/889190_279325.jpg",
+        "steps": [{
+            "img": "http://imgs.haoservice.com/CaiPu/pic/step/m/03/42/3686915.jpg",
+            "step": "1.豇豆洗净"
+        },
+        {
+            "img": "http://imgs.haoservice.com/CaiPu/pic/step/m/04/42/3686916.jpg",
+            "step": "2.切段"
+        },
+        {
+            "img": "http://imgs.haoservice.com/CaiPu/pic/step/m/05/42/3686917.jpg",
+            "step": "3.焯一下，过凉水"
+        },
+        {
+            "img": "http://imgs.haoservice.com/CaiPu/pic/step/m/06/42/3686918.jpg",
+            "step": "4.放盐"
+        },
+        {
+            "img": "http://imgs.haoservice.com/CaiPu/pic/step/m/07/42/3686919.jpg",
+            "step": "5.放醋"
+        },
+        {
+            "img": "http://imgs.haoservice.com/CaiPu/pic/step/m/08/42/3686920.jpg",
+            "step": "6.放酱油"
+        },
+        {
+            "img": "http://imgs.haoservice.com/CaiPu/pic/step/m/09/42/3686921.jpg",
+            "step": "7.放香油"
+        },
+        {
+            "img": "http://imgs.haoservice.com/CaiPu/pic/step/m/12/42/3686930.jpg",
+            "step": "8.放熟白芝麻"
+        },
+        {
+            "img": "http://imgs.haoservice.com/CaiPu/pic/step/m/13/42/3686931.jpg",
+            "step": "9.拌匀即可"
+        },
+        {
+            "img": "http://imgs.haoservice.com/CaiPu/pic/step/m/14/42/3686932.jpg",
+            "step": "10.上桌喽"
+        }]
+    },
+    {
+        "id": 892093,
+        "title": "凉拌土豆粒",
+        "tags": "保湿;凉菜;午餐;单身;增强免疫力;",
+        "intro": "昨晚一人在家，懒得做饭了！但也不能饿着自己啊~打开冰箱，发现上周买的主粮君土豆！嗯，今晚就吃它啦~焯熟，拌一拌，妥妥哒开吃咯~",
+        "ingredients": "土豆:500g;",
+        "burden": "海天招牌拌饭酱:2汤匙;糖:适量;蒜蓉:1茶匙;青椒:少许;红椒:少许;",
+        "albums": "http://imgs.haoservice.com/CaiPu/pic/recipe/l/bd/9c/892093_cc056b.jpg",
+        "steps": [{
+            "img": "http://imgs.haoservice.com/CaiPu/pic/step/m/9c/81/3703196.jpg",
+            "step": "1.准备好材料，土豆、青红椒切粒备用；"
+        },
+        {
+            "img": "http://imgs.haoservice.com/CaiPu/pic/step/m/9d/81/3703197.jpg",
+            "step": "2.凉水放锅，待水开；"
+        },
+        {
+            "img": "http://imgs.haoservice.com/CaiPu/pic/step/m/9e/81/3703198.jpg",
+            "step": "3.土豆粒放入开水中，待土豆粒熟透；青红椒也同样处理；"
+        },
+        {
+            "img": "http://imgs.haoservice.com/CaiPu/pic/step/m/9f/81/3703199.jpg",
+            "step": "4.土豆粒晾干，拌入海天招牌拌饭酱就可以开吃了！"
+        }]
+    },
+    {
+        "id": 892044,
+        "title": "皮冻",
+        "tags": "凉菜;家常菜;美容;",
+        "intro": "猪皮中含有大量的胶原蛋白质在烹调过程中可转化成明胶，明胶具有网状空间结构，它能结合许多水，增强细胞生理代谢，有效地改善机体生理功能和皮肤组织细胞的储水功能，使细胞得到滋润，保持湿润状态，防止皮肤过早褶皱，延缓皮肤的衰老过程。",
+        "ingredients": "猪肉皮:200g;",
+        "burden": "水:适量;",
+        "albums": "http://imgs.haoservice.com/CaiPu/pic/recipe/l/8c/9c/892044_e39717.jpg",
+        "steps": [{
+            "img": "http://imgs.haoservice.com/CaiPu/pic/step/m/56/80/3702870.jpg",
+            "step": "1.肉皮煮熟"
+        },
+        {
+            "img": "http://imgs.haoservice.com/CaiPu/pic/step/m/58/80/3702872.jpg",
+            "step": "2.取出控水刮去上面的肥油"
+        },
+        {
+            "img": "http://imgs.haoservice.com/CaiPu/pic/step/m/57/80/3702871.jpg",
+            "step": "3.再放在煮锅里煮烂"
+        },
+        {
+            "img": "http://imgs.haoservice.com/CaiPu/pic/step/m/59/80/3702873.jpg",
+            "step": "4.撇去浮沫"
+        },
+        {
+            "img": "http://imgs.haoservice.com/CaiPu/pic/step/m/5a/80/3702874.jpg",
+            "step": "5.倒出控水"
+        },
+        {
+            "img": "http://imgs.haoservice.com/CaiPu/pic/step/m/5b/80/3702875.jpg",
+            "step": "6.切成条"
+        },
+        {
+            "img": "http://imgs.haoservice.com/CaiPu/pic/step/m/5c/80/3702876.jpg",
+            "step": "7.继续煮到浓稠"
+        },
+        {
+            "img": "http://imgs.haoservice.com/CaiPu/pic/step/m/5d/80/3702877.jpg",
+            "step": "8.倒出晾凉放在冰箱冷藏，吃的时候取出来切片蘸汁吃"
+        },
+        {
+            "img": "http://imgs.haoservice.com/CaiPu/pic/step/m/56/80/3702870.jpg",
+            "step": "1.肉皮煮熟"
+        },
+        {
+            "img": "http://imgs.haoservice.com/CaiPu/pic/step/m/58/80/3702872.jpg",
+            "step": "2.取出控水刮去上面的肥油"
+        },
+        {
+            "img": "http://imgs.haoservice.com/CaiPu/pic/step/m/57/80/3702871.jpg",
+            "step": "3.再放在煮锅里煮烂"
+        },
+        {
+            "img": "http://imgs.haoservice.com/CaiPu/pic/step/m/59/80/3702873.jpg",
+            "step": "4.撇去浮沫"
+        },
+        {
+            "img": "http://imgs.haoservice.com/CaiPu/pic/step/m/5a/80/3702874.jpg",
+            "step": "5.倒出控水"
+        },
+        {
+            "img": "http://imgs.haoservice.com/CaiPu/pic/step/m/5b/80/3702875.jpg",
+            "step": "6.切成条"
+        },
+        {
+            "img": "http://imgs.haoservice.com/CaiPu/pic/step/m/5c/80/3702876.jpg",
+            "step": "7.继续煮到浓稠"
+        },
+        {
+            "img": "http://imgs.haoservice.com/CaiPu/pic/step/m/5d/80/3702877.jpg",
+            "step": "8.倒出晾凉放在冰箱冷藏，吃的时候取出来切片蘸汁吃"
+        }]
+    },
+    {
+        "id": 892036,
+        "title": "辣椒拌豆干",
+        "tags": "凉菜;家常菜;拌;",
+        "intro": "豆腐干是豆腐的再加工制品，咸香爽口，硬中带韧。豆腐干营养丰富，含有大量蛋白质、脂肪、碳水化合物，还含有钙、磷、铁等多种人体所需的矿物质。豆腐干在制作过程中会添加食盐、茴香、花椒、大料、干姜等调料，既香又鲜，久吃不厌，被誉为“素火腿”。",
+        "ingredients": "豆干:180g;青红辣椒:90g;",
+        "burden": "油:适量;盐:适量;姜:适量;葱:适量;蒜:适量;鸡精:半勺;白糖:半勺;酱油:1勺;麻油:半勺;",
+        "albums": "http://imgs.haoservice.com/CaiPu/pic/recipe/l/84/9c/892036_018ae6.jpg",
+        "steps": [{
+            "img": "http://imgs.haoservice.com/CaiPu/pic/step/m/2b/80/3702827.jpg",
+            "step": "1.准备好豆干和辣椒。"
+        },
+        {
+            "img": "http://imgs.haoservice.com/CaiPu/pic/step/m/2c/80/3702828.jpg",
+            "step": "2.准备好辣椒油，用姜蒜葱切细，放入辣椒粉和芝麻，加盐，鸡精，糖，麻油等，再烧热油浇上调匀成汁。"
+        },
+        {
+            "img": "http://imgs.haoservice.com/CaiPu/pic/step/m/2d/80/3702829.jpg",
+            "step": "3.豆干切丝。"
+        },
+        {
+            "img": "http://imgs.haoservice.com/CaiPu/pic/step/m/2e/80/3702830.jpg",
+            "step": "4.辣椒洗净切丝。"
+        },
+        {
+            "img": "http://imgs.haoservice.com/CaiPu/pic/step/m/2f/80/3702831.jpg",
+            "step": "5.锅加水。"
+        },
+        {
+            "img": "http://imgs.haoservice.com/CaiPu/pic/step/m/30/80/3702832.jpg",
+            "step": "6.放入豆干。"
+        },
+        {
+            "img": "http://imgs.haoservice.com/CaiPu/pic/step/m/31/80/3702833.jpg",
+            "step": "7.加入辣椒。"
+        },
+        {
+            "img": "http://imgs.haoservice.com/CaiPu/pic/step/m/33/80/3702835.jpg",
+            "step": "8.一起焯一下水煮开。"
+        },
+        {
+            "img": "http://imgs.haoservice.com/CaiPu/pic/step/m/34/80/3702836.jpg",
+            "step": "9.捞出控水。"
+        },
+        {
+            "img": "http://imgs.haoservice.com/CaiPu/pic/step/m/35/80/3702837.jpg",
+            "step": "10.菜放凉后倒入大碗内。"
+        },
+        {
+            "img": "http://imgs.haoservice.com/CaiPu/pic/step/m/36/80/3702838.jpg",
+            "step": "11.浇上辣椒调料汁。"
+        },
+        {
+            "img": "http://imgs.haoservice.com/CaiPu/pic/step/m/37/80/3702839.jpg",
+            "step": "12.用筷子拌匀。"
+        },
+        {
+            "img": "http://imgs.haoservice.com/CaiPu/pic/step/m/38/80/3702840.jpg",
+            "step": "13.装盘。"
+        }]
+    },
+    {
+        "id": 891835,
+        "title": "泡椒凤爪",
+        "tags": "凉菜;凤爪;泡椒味;",
+        "intro": "喜欢有友的泡椒凤爪、一吃就停不下来……可是麻麻不让经常吃外食、说是不知道放了什么怕对身体不好……只好自己动手做、第一次做怕太咸了、没敢放调料、做出来很淡不入味、做了两次才掌握好分量、看来每个吃货都是有做大厨的潜质的、就看有没有被逼到那个份上~",
+        "ingredients": "鸡爪:500g;泡野山椒:200g;",
+        "burden": "盐:适量;味精:适量;白糖:适量;醋:适量;葱:适量;姜:适量;花椒:适量;",
+        "albums": "http://imgs.haoservice.com/CaiPu/pic/recipe/l/bb/9b/891835_3f4afa.jpg",
+        "steps": [{
+            "img": "http://imgs.haoservice.com/CaiPu/pic/step/m/cd/7b/3701709.jpg",
+            "step": "1.鸡爪洗净去爪尖想要更入味可以切两段"
+        },
+        {
+            "img": "http://imgs.haoservice.com/CaiPu/pic/step/m/ce/7b/3701710.jpg",
+            "step": "2.焯水去浮沫"
+        },
+        {
+            "img": "http://imgs.haoservice.com/CaiPu/pic/step/m/cf/7b/3701711.jpg",
+            "step": "3.将鸡爪上的浮沫冲洗干净"
+        },
+        {
+            "img": "http://imgs.haoservice.com/CaiPu/pic/step/m/d0/7b/3701712.jpg",
+            "step": "4.重新放入锅中、小火炖熟捞出、煮熟即可、不需要软烂"
+        },
+        {
+            "img": "http://imgs.haoservice.com/CaiPu/pic/step/m/d1/7b/3701713.jpg",
+            "step": "5.鸡爪捞出、放入冰水过凉一定要冰水啊~"
+        },
+        {
+            "img": "http://imgs.haoservice.com/CaiPu/pic/step/m/d2/7b/3701714.jpg",
+            "step": "6.锅中入开水"
+        },
+        {
+            "img": "http://imgs.haoservice.com/CaiPu/pic/step/m/d3/7b/3701715.jpg",
+            "step": "7.放入泡椒"
+        },
+        {
+            "img": "http://imgs.haoservice.com/CaiPu/pic/step/m/d4/7b/3701716.jpg",
+            "step": "8.加入盐"
+        },
+        {
+            "img": "http://imgs.haoservice.com/CaiPu/pic/step/m/d5/7b/3701717.jpg",
+            "step": "9.加入味精"
+        },
+        {
+            "img": "http://imgs.haoservice.com/CaiPu/pic/step/m/d6/7b/3701718.jpg",
+            "step": "10.加入糖"
+        },
+        {
+            "img": "http://imgs.haoservice.com/CaiPu/pic/step/m/e2/7b/3701730.jpg",
+            "step": "11.加入醋"
+        },
+        {
+            "img": "http://imgs.haoservice.com/CaiPu/pic/step/m/e3/7b/3701731.jpg",
+            "step": "12.加入葱段"
+        },
+        {
+            "img": "http://imgs.haoservice.com/CaiPu/pic/step/m/e4/7b/3701732.jpg",
+            "step": "13.放入姜片"
+        },
+        {
+            "img": "http://imgs.haoservice.com/CaiPu/pic/step/m/e5/7b/3701733.jpg",
+            "step": "14.撒适量花椒调味"
+        },
+        {
+            "img": "http://imgs.haoservice.com/CaiPu/pic/step/m/e6/7b/3701734.jpg",
+            "step": "15.将水重新烧开"
+        },
+        {
+            "img": "http://imgs.haoservice.com/CaiPu/pic/step/m/e7/7b/3701735.jpg",
+            "step": "16.放入鸡爪煮至入味"
+        },
+        {
+            "img": "http://imgs.haoservice.com/CaiPu/pic/step/m/e8/7b/3701736.jpg",
+            "step": "17.待晾凉后放入冰箱中冷藏状态下腌2小时"
+        },
+        {
+            "img": "http://imgs.haoservice.com/CaiPu/pic/step/m/e9/7b/3701737.jpg",
+            "step": "18.腌制越久越入味"
+        }]
+    },
+    {
+        "id": 891062,
+        "title": "凉拌血皮菜",
+        "tags": "凉拌菜;凉菜;午餐;增强免疫力;开胃;拌;滋阴润燥;",
+        "intro": "血皮菜是很补血的食材，它含丰富粗纤维和维生素，具有提高机体免疫力、抗氧化和清除自由基的作用，还能达到延缓衰老的目的，是老少皆宜的养生菜品。平时是炒着吃，今天的这道凉拌吃法，也是清脆嫩滑，给大家分享。",
+        "ingredients": "血皮菜:400g;",
+        "burden": "香油:适量;盐:适量;海鲜酱油:适量;米醋:适量;白糖:适量;大蒜:2瓣;辣酱:适量;枸杞:5粒;花生芝麻粉:适量;",
+        "albums": "http://imgs.haoservice.com/CaiPu/pic/recipe/l/b6/98/891062_6086b0.jpg",
+        "steps": [{
+            "img": "http://imgs.haoservice.com/CaiPu/pic/step/m/8d/6b/3697549.jpg",
+            "step": "1.血皮菜摘取老叶，用流水洗净。"
+        },
+        {
+            "img": "http://imgs.haoservice.com/CaiPu/pic/step/m/8e/6b/3697550.jpg",
+            "step": "2.放入漏盆里沥干水分。"
+        },
+        {
+            "img": "http://imgs.haoservice.com/CaiPu/pic/step/m/8f/6b/3697551.jpg",
+            "step": "3.锅中烧开水后，倒入血皮菜焯水半分钟。"
+        },
+        {
+            "img": "http://imgs.haoservice.com/CaiPu/pic/step/m/90/6b/3697552.jpg",
+            "step": "4.捞出浸凉并挤干水分。"
+        },
+        {
+            "img": "http://imgs.haoservice.com/CaiPu/pic/step/m/91/6b/3697553.jpg",
+            "step": "5.将血皮菜盛盘。"
+        },
+        {
+            "img": "http://imgs.haoservice.com/CaiPu/pic/step/m/92/6b/3697554.jpg",
+            "step": "6.准备调好料碗：将蒜切碎先放进碗里，加入2勺酱油、1勺白糖、适量米醋、辣酱、滴入香油，拌匀即可。"
+        },
+        {
+            "img": "http://imgs.haoservice.com/CaiPu/pic/step/m/93/6b/3697555.jpg",
+            "step": "7.将调好的料汁倒入血皮菜上拌匀。"
+        },
+        {
+            "img": "http://imgs.haoservice.com/CaiPu/pic/step/m/94/6b/3697556.jpg",
+            "step": "8.撒上适量花生芝麻粉。"
+        },
+        {
+            "img": "http://imgs.haoservice.com/CaiPu/pic/step/m/95/6b/3697557.jpg",
+            "step": "9.加上枸杞摆盘即可。"
+        }]
+    },
+    {
+        "id": 891684,
+        "title": "拌鱼香茄子",
+        "tags": "凉菜;川菜;酸辣;开胃;",
+        "intro": "鱼字当头，不见鱼影，香在其中，而有鱼香，鱼香汁是也。只要这小小的一这碗鱼香汁，就可以做出好吃的鱼香菜品，让你无鱼胜有鱼。你可以随材料的多少增减，随自己的口味而增减。这碗鱼香汁无论和什么菜搭配，做出的菜入口并不辣而回味辣，且香气诱人，辣得很适口，都是一道绝美的无人不爱的下饭菜。",
+        "ingredients": "茄子:2根;",
+        "burden": "油:适量;盐:适量;泡椒:适量;大蒜:适量;醋:适量;白糖:适量;鸡精:适量;葱:适量;",
+        "albums": "http://imgs.haoservice.com/CaiPu/pic/recipe/l/24/9b/891684_29aadc.jpg",
+        "steps": [{
+            "img": "http://imgs.haoservice.com/CaiPu/pic/step/m/f2/78/3700978.jpg",
+            "step": "1.茄子洗净后改刀成长条状"
+        },
+        {
+            "img": "http://imgs.haoservice.com/CaiPu/pic/step/m/f3/78/3700979.jpg",
+            "step": "2.切好的茄子放入蒸锅蒸8分钟"
+        },
+        {
+            "img": "http://imgs.haoservice.com/CaiPu/pic/step/m/f4/78/3700980.jpg",
+            "step": "3.剁细的泡椒，大蒜装碗备用"
+        },
+        {
+            "img": "http://imgs.haoservice.com/CaiPu/pic/step/m/f5/78/3700981.jpg",
+            "step": "4.蒸好以后的茄子晾凉，将冷却后的茄子沥干水放在盘子里"
+        },
+        {
+            "img": "http://imgs.haoservice.com/CaiPu/pic/step/m/f6/78/3700982.jpg",
+            "step": "5.油烧到8成油温"
+        },
+        {
+            "img": "http://imgs.haoservice.com/CaiPu/pic/step/m/f7/78/3700983.jpg",
+            "step": "6.淋在剁细的泡椒料上"
+        },
+        {
+            "img": "http://imgs.haoservice.com/CaiPu/pic/step/m/f8/78/3700984.jpg",
+            "step": "7.趁热加入一勺白糖、一勺香醋、鸡精少许、盐加入葱花以后拌匀"
+        },
+        {
+            "img": "http://imgs.haoservice.com/CaiPu/pic/step/m/f1/78/3700977.jpg",
+            "step": "8.将鱼香汁浇在茄子上面即可"
+        }]
+    },
+    {
+        "id": 891636,
+        "title": "香酥瓜子拌龙须菜",
+        "tags": "儿童;凉菜;家常菜;拌;白领;",
+        "intro": "天越来越热，凉菜便成为每餐必不可少的。今天做的是香酥瓜子拌龙须菜，清爽可口，味道还不错呢！是一道简单易做的家常小菜。",
+        "ingredients": "龙须菜干:50g;",
+        "burden": "油:适量;盐:适量;醋:适量;酱油:适量;瓜子仁:适量;",
+        "albums": "http://imgs.haoservice.com/CaiPu/pic/recipe/l/f4/9a/891636_b0ecc9.jpg",
+        "steps": [{
+            "img": "http://imgs.haoservice.com/CaiPu/pic/step/m/ad/77/3700653.jpg",
+            "step": "1.龙须菜提前泡发，洗净"
+        },
+        {
+            "img": "http://imgs.haoservice.com/CaiPu/pic/step/m/ae/77/3700654.jpg",
+            "step": "2.摘成小段"
+        },
+        {
+            "img": "http://imgs.haoservice.com/CaiPu/pic/step/m/af/77/3700655.jpg",
+            "step": "3.坐锅，放油，炒香瓜子仁"
+        },
+        {
+            "img": "http://imgs.haoservice.com/CaiPu/pic/step/m/b0/77/3700656.jpg",
+            "step": "4.放在龙须菜上"
+        },
+        {
+            "img": "http://imgs.haoservice.com/CaiPu/pic/step/m/b1/77/3700657.jpg",
+            "step": "5.放盐"
+        },
+        {
+            "img": "http://imgs.haoservice.com/CaiPu/pic/step/m/b2/77/3700658.jpg",
+            "step": "6.放醋"
+        },
+        {
+            "img": "http://imgs.haoservice.com/CaiPu/pic/step/m/b3/77/3700659.jpg",
+            "step": "7.放酱油"
+        },
+        {
+            "img": "http://imgs.haoservice.com/CaiPu/pic/step/m/b4/77/3700660.jpg",
+            "step": "8.拌匀即可"
+        },
+        {
+            "img": "http://imgs.haoservice.com/CaiPu/pic/step/m/b5/77/3700661.jpg",
+            "step": "9.装盘"
+        }]
+    },
+    {
+        "id": 891616,
+        "title": "彩椒拌木耳",
+        "tags": "排毒;凉菜;抗癌;拌;",
+        "intro": "简单凉拌菜。",
+        "ingredients": "黑木耳:50g;青椒:1个;红彩椒:1个;香菜:50g;",
+        "burden": "辣椒油:适量;香油:适量;鲜味酱油:适量;绵白糖:适量;胡椒粉:少许;香醋:适量;",
+        "albums": "http://imgs.haoservice.com/CaiPu/pic/recipe/l/e0/9a/891616_442a89.jpg",
+        "steps": [{
+            "img": "http://imgs.haoservice.com/CaiPu/pic/step/m/29/77/3700521.jpg",
+            "step": "1.食材：泡发好黑木耳、青红椒、香菜"
+        },
+        {
+            "img": "http://imgs.haoservice.com/CaiPu/pic/step/m/2a/77/3700522.jpg",
+            "step": "2.香菜洗净切末、青红彩椒切菱形块。"
+        },
+        {
+            "img": "http://imgs.haoservice.com/CaiPu/pic/step/m/2b/77/3700523.jpg",
+            "step": "3.木耳摘去老根掰成小朵。"
+        },
+        {
+            "img": "http://imgs.haoservice.com/CaiPu/pic/step/m/2c/77/3700524.jpg",
+            "step": "4.处理好的木耳放入沸水中炒一下捞出。"
+        },
+        {
+            "img": "http://imgs.haoservice.com/CaiPu/pic/step/m/2d/77/3700525.jpg",
+            "step": "5.青红椒也放入沸水中快速焯水捞出。"
+        },
+        {
+            "img": "http://imgs.haoservice.com/CaiPu/pic/step/m/2e/77/3700526.jpg",
+            "step": "6.焯过水的青红椒、木耳放入冷水中过凉。"
+        },
+        {
+            "img": "http://imgs.haoservice.com/CaiPu/pic/step/m/2f/77/3700527.jpg",
+            "step": "7.过凉的青红椒和木耳控净水分，和香菜末一起放入大碗中。"
+        },
+        {
+            "img": "http://imgs.haoservice.com/CaiPu/pic/step/m/30/77/3700528.jpg",
+            "step": "8.用适量酱油，一大勺白糖、香醋、辣椒油、香油、少许胡椒粉调成一碗料汁。"
+        },
+        {
+            "img": "http://imgs.haoservice.com/CaiPu/pic/step/m/31/77/3700529.jpg",
+            "step": "9.调好的料汁直接倒入木耳和青红椒中。"
+        },
+        {
+            "img": "http://imgs.haoservice.com/CaiPu/pic/step/m/32/77/3700530.jpg",
+            "step": "10.U拌匀即可。"
+        }]
+    },
+    {
+        "id": 891513,
+        "title": "凉拌蒜薹辣豆子",
+        "tags": "拌;春季;凉菜;",
+        "intro": "早餐配面条很好的搭配啊，很清淡。",
+        "ingredients": "蒜薹:100g;辣豆子:50g;",
+        "burden": "油:适量;香醋:1汤匙;花椒:10粒;",
+        "albums": "http://imgs.haoservice.com/CaiPu/pic/recipe/l/79/9a/891513_440bc4.jpg",
+        "steps": [{
+            "img": "http://imgs.haoservice.com/CaiPu/pic/step/m/a3/74/3699875.jpg",
+            "step": "1.准备好食材：辣椒豆用清水洗一下，蒜薹摘洗干净"
+        },
+        {
+            "img": "http://imgs.haoservice.com/CaiPu/pic/step/m/a4/74/3699876.jpg",
+            "step": "2.蒜薹切成0.5cm的小段"
+        },
+        {
+            "img": "http://imgs.haoservice.com/CaiPu/pic/step/m/a6/74/3699878.jpg",
+            "step": "3.蒜薹辣豆子放入碗里，加入一汤匙香醋"
+        },
+        {
+            "img": "http://imgs.haoservice.com/CaiPu/pic/step/m/a5/74/3699877.jpg",
+            "step": "4.油锅热油下花椒粒熬花椒油"
+        },
+        {
+            "img": "http://imgs.haoservice.com/CaiPu/pic/step/m/a8/74/3699880.jpg",
+            "step": "5.趁热把花椒捞出倒入碗里拌均匀"
+        }]
+    },
+    {
+        "id": 891051,
+        "title": "手撕蒜薹",
+        "tags": "凉菜;开胃;拌;午餐;增强免疫力;小吃;早餐;",
+        "intro": "蒜薹，是从抽薹大蒜中抽出的花茎，含有辣素，其杀菌能力可达到青霉素的十分之一，对病原菌和寄生虫都有良好的杀灭作用，可以起到预防流感，防止伤口感染和驱虫的功效。最常见的吃法是炒着吃，今天给大家分享手撕凉拌的吃法，清爽脆口，很入味。做法也很简单，给大家分享。",
+        "ingredients": "蒜薹:200g;",
+        "burden": "香油:适量;盐:适量;大蒜:2瓣;生抽:适量;米醋:适量;白糖:适量;辣酱:适量;",
+        "albums": "http://imgs.haoservice.com/CaiPu/pic/recipe/l/ab/98/891051_349774.jpg",
+        "steps": [{
+            "img": "http://imgs.haoservice.com/CaiPu/pic/step/m/6f/6b/3697519.jpg",
+            "step": "1.蒜苔摘去老梗，从中间掰断。"
+        },
+        {
+            "img": "http://imgs.haoservice.com/CaiPu/pic/step/m/70/6b/3697520.jpg",
+            "step": "2.锅中烧开水，放入蒜苔，焯半分钟即可。"
+        },
+        {
+            "img": "http://imgs.haoservice.com/CaiPu/pic/step/m/71/6b/3697521.jpg",
+            "step": "3.将焯好水的蒜苔浸凉。"
+        },
+        {
+            "img": "http://imgs.haoservice.com/CaiPu/pic/step/m/72/6b/3697522.jpg",
+            "step": "4.捞出沥干水分，将蒜苔撕成小条。"
+        },
+        {
+            "img": "http://imgs.haoservice.com/CaiPu/pic/step/m/73/6b/3697523.jpg",
+            "step": "5.把撕好的蒜苔摆盘。"
+        },
+        {
+            "img": "http://imgs.haoservice.com/CaiPu/pic/step/m/74/6b/3697524.jpg",
+            "step": "6.准备调料碗：加入蒜碎，生抽，米醋，盐，白糖，香油，调成料汁。"
+        },
+        {
+            "img": "http://imgs.haoservice.com/CaiPu/pic/step/m/75/6b/3697525.jpg",
+            "step": "7.将料汁倒入蒜苔盘里。"
+        },
+        {
+            "img": "http://imgs.haoservice.com/CaiPu/pic/step/m/76/6b/3697526.jpg",
+            "step": "8.在加入一勺辣酱。"
+        },
+        {
+            "img": "http://imgs.haoservice.com/CaiPu/pic/step/m/77/6b/3697527.jpg",
+            "step": "9.拌匀即可享用。"
+        }]
+    },
+    {
+        "id": 891199,
+        "title": "糖拌火龙果皮",
+        "tags": "凉菜;家常菜;拌;",
+        "intro": "火龙果好吃不仅为其果肉，还有果皮，很少人晓得，火龙果的果皮含有非常珍贵的营养物质，花青素。花青素是一种强力的抗氧化剂，强于胡萝卜素10倍以上，且在人体血液中保存活性75小时。花青素能增强血管弹性保护动脉血管内壁，降低血压。还能增进皮肤的光滑度，完颜肌肤。而且口感是非常的好。",
+        "ingredients": "火龙果:1个;白砂糖:50g;",
+        "burden": "盐:适量;",
+        "albums": "http://imgs.haoservice.com/CaiPu/pic/recipe/l/3f/99/891199_5e59be.jpg",
+        "steps": [{
+            "img": "http://imgs.haoservice.com/CaiPu/pic/step/m/56/76/3700310.jpg",
+            "step": "1.火龙果一个，皮有光泽，椭圆形的，长得饱满的。"
+        },
+        {
+            "img": "http://imgs.haoservice.com/CaiPu/pic/step/m/57/76/3700311.jpg",
+            "step": "2.用一小把食用盐搓果皮，再用清水反复的冲洗，最后用凉开水浸泡五到十分钟。"
+        },
+        {
+            "img": "http://imgs.haoservice.com/CaiPu/pic/step/m/58/76/3700312.jpg",
+            "step": "3.将火龙果两头叶子去掉。"
+        },
+        {
+            "img": "http://imgs.haoservice.com/CaiPu/pic/step/m/59/76/3700313.jpg",
+            "step": "4.从中间切开将火龙果剥皮。"
+        },
+        {
+            "img": "http://imgs.haoservice.com/CaiPu/pic/step/m/5a/76/3700314.jpg",
+            "step": "5.将果皮切成四份。"
+        },
+        {
+            "img": "http://imgs.haoservice.com/CaiPu/pic/step/m/5b/76/3700315.jpg",
+            "step": "6.将其切细条。"
+        },
+        {
+            "img": "http://imgs.haoservice.com/CaiPu/pic/step/m/5c/76/3700316.jpg",
+            "step": "7.拌上白砂糖即可食用。"
+        }]
+    },
+    {
+        "id": 890977,
+        "title": "榨菜皮蛋豆腐",
+        "tags": "家常菜;快手菜;晚餐;凉菜;拌;",
+        "intro": "【榨菜皮蛋豆腐】是一道非常非常简单的凉菜，简单又好吃，软嫩又鲜美。",
+        "ingredients": "豆腐:350g;榨菜丝:50g;皮蛋:2只;",
+        "burden": "生抽:适量;芝麻油:适量;",
+        "albums": "http://imgs.haoservice.com/CaiPu/pic/recipe/l/61/98/890977_125ebf.jpg",
+        "steps": [{
+            "img": "http://imgs.haoservice.com/CaiPu/pic/step/m/00/6a/3697152.jpg",
+            "step": "1.食材：豆腐、榨菜丝、皮蛋（已剥壳）"
+        },
+        {
+            "img": "http://imgs.haoservice.com/CaiPu/pic/step/m/01/6a/3697153.jpg",
+            "step": "2.将榨菜丝拆开包装，放在案板上切碎，待用。"
+        },
+        {
+            "img": "http://imgs.haoservice.com/CaiPu/pic/step/m/02/6a/3697154.jpg",
+            "step": "3.将皮蛋放在案板上切碎，待用。"
+        },
+        {
+            "img": "http://imgs.haoservice.com/CaiPu/pic/step/m/03/6a/3697155.jpg",
+            "step": "4.接着，将豆腐撕开包装倒扣在盘中。"
+        },
+        {
+            "img": "http://imgs.haoservice.com/CaiPu/pic/step/m/04/6a/3697156.jpg",
+            "step": "5.然后，合入切好的榨菜和皮蛋。"
+        },
+        {
+            "img": "http://imgs.haoservice.com/CaiPu/pic/step/m/05/6a/3697157.jpg",
+            "step": "6.最后，加适量的生抽。"
+        },
+        {
+            "img": "http://imgs.haoservice.com/CaiPu/pic/step/m/06/6a/3697158.jpg",
+            "step": "7.加适量的芝麻油。"
+        },
+        {
+            "img": "http://imgs.haoservice.com/CaiPu/pic/step/m/07/6a/3697159.jpg",
+            "step": "8.在吃的时候拌匀，就可以了。"
+        }]
+    },
+    {
+        "id": 890882,
+        "title": "彩色猪皮冻",
+        "tags": "下酒菜;凉菜;煮;",
+        "intro": "猪皮冻是用猪皮熬制而成。传统做法是将除了毛的猪皮，放入适当的调料，进行长时间的熬制，使熬制的汤里含有一定的皮胶含量，然后再冷却，冷却后猪皮和汤就会凝固在一起，沾上调料，即可食用．现在用豆浆机做猪皮冻就省事多了。",
+        "ingredients": "猪皮:150g;红萝卜汁:750g;",
+        "burden": "姜片:适量;料酒:适量;香料:适量;",
+        "albums": "http://imgs.haoservice.com/CaiPu/pic/recipe/l/02/98/890882_b6b8b2.jpg",
+        "steps": [{
+            "img": "http://imgs.haoservice.com/CaiPu/pic/step/m/30/68/3696688.jpg",
+            "step": "1.猪皮去毛洗净，用盐搓洗后用料酒腌一会。"
+        },
+        {
+            "img": "http://imgs.haoservice.com/CaiPu/pic/step/m/34/68/3696692.jpg",
+            "step": "2.滚水里放入姜片，香料等去腥的东西。放入猪皮稍稍煮一下，不用煮得太软。"
+        },
+        {
+            "img": "http://imgs.haoservice.com/CaiPu/pic/step/m/35/68/3696693.jpg",
+            "step": "3.煮好的猪皮冷却后用刀去掉上面的油脂，切成细丝；红萝卜加水榨汁。"
+        },
+        {
+            "img": "http://imgs.haoservice.com/CaiPu/pic/step/m/36/68/3696694.jpg",
+            "step": "4.将猪皮及红萝卜汁一起放入豆浆机，选米糊功能。"
+        },
+        {
+            "img": "http://imgs.haoservice.com/CaiPu/pic/step/m/37/68/3696695.jpg",
+            "step": "5.做好的猪皮冻装入铺好保鲜袋（便于到时好脱模）的保鲜盒，放入冰箱冷藏成固体，切块装盘配调料吃。"
+        }]
+    },
+    {
+        "id": 890525,
+        "title": "芥味小凉拌",
+        "tags": "夏季;凉拌;凉菜;",
+        "intro": "夏季来了，简单易做的小凉菜可就成了日常简单又开胃的餐桌常客了！",
+        "ingredients": "西红柿:1个;黄瓜:半根;豆腐丝:100g;",
+        "burden": "花生碎:适量;介茉味沙拉汁:1袋;",
+        "albums": "http://imgs.haoservice.com/CaiPu/pic/recipe/l/9d/96/890525_91eabc.jpg",
+        "steps": [{
+            "img": "http://imgs.haoservice.com/CaiPu/pic/step/m/67/5f/3694439.jpg",
+            "step": "1.黄瓜西红柿洗净备用，黄瓜半根就够了"
+        },
+        {
+            "img": "http://imgs.haoservice.com/CaiPu/pic/step/m/68/5f/3694440.jpg",
+            "step": "2.西红柿切成大圆片摆好"
+        },
+        {
+            "img": "http://imgs.haoservice.com/CaiPu/pic/step/m/69/5f/3694441.jpg",
+            "step": "3.豆腐丝打卷，黄瓜切成丝"
+        },
+        {
+            "img": "http://imgs.haoservice.com/CaiPu/pic/step/m/6a/5f/3694442.jpg",
+            "step": "4.如图一层层码放"
+        },
+        {
+            "img": "http://imgs.haoservice.com/CaiPu/pic/step/m/6b/5f/3694443.jpg",
+            "step": "5.最上面和上两片西红柿作装饰"
+        },
+        {
+            "img": "http://imgs.haoservice.com/CaiPu/pic/step/m/6c/5f/3694444.jpg",
+            "step": "6.撒上花生碎，浇上沙拉汁就可以了"
+        }]
+    },
+    {
+        "id": 890327,
+        "title": "黄瓜拌烤麸",
+        "tags": "凉菜;拌;保湿;素菜;",
+        "intro": "（转）黄瓜味甘，性凉。能清热止渴，利水消肿，清火解毒，含糖类（葡萄糖、甘露糖等）、甙类（芸香甙、异槲皮甙等）、咖啡酸、绿原酸、多种氨基酸、维生素（B2、C）、挥发油（苦味成分），葫芦素A、B、C、D等成分，葫芦素C在动物实验中有抗肿瘤作用，毒性较低。",
+        "ingredients": "黄瓜:400g;烤麸:300g;",
+        "burden": "油:适量;盐:适量;五香粉:适量;味精:适量;大蒜:适量;生抽:适量;柿子醋:适量;香油:适量;",
+        "albums": "http://imgs.haoservice.com/CaiPu/pic/recipe/l/d7/95/890327_e7499a.jpg",
+        "steps": [{
+            "img": "http://imgs.haoservice.com/CaiPu/pic/step/m/4f/5b/3693391.jpg",
+            "step": "1.食材准备"
+        },
+        {
+            "img": "http://imgs.haoservice.com/CaiPu/pic/step/m/50/5b/3693392.jpg",
+            "step": "2.烤麸切块后开水烫一下"
+        },
+        {
+            "img": "http://imgs.haoservice.com/CaiPu/pic/step/m/51/5b/3693393.jpg",
+            "step": "3.黄瓜拍块"
+        },
+        {
+            "img": "http://imgs.haoservice.com/CaiPu/pic/step/m/5c/5b/3693404.jpg",
+            "step": "4.放入大蒜末"
+        },
+        {
+            "img": "http://imgs.haoservice.com/CaiPu/pic/step/m/5d/5b/3693405.jpg",
+            "step": "5.放入五香粉"
+        },
+        {
+            "img": "http://imgs.haoservice.com/CaiPu/pic/step/m/5e/5b/3693406.jpg",
+            "step": "6.放入盐"
+        },
+        {
+            "img": "http://imgs.haoservice.com/CaiPu/pic/step/m/4e/5b/3693390.jpg",
+            "step": "7.放入味精"
+        },
+        {
+            "img": "http://imgs.haoservice.com/CaiPu/pic/step/m/5f/5b/3693407.jpg",
+            "step": "8.热油淋上"
+        },
+        {
+            "img": "http://imgs.haoservice.com/CaiPu/pic/step/m/60/5b/3693408.jpg",
+            "step": "9.放入生抽"
+        },
+        {
+            "img": "http://imgs.haoservice.com/CaiPu/pic/step/m/61/5b/3693409.jpg",
+            "step": "10.放入柿子醋"
+        },
+        {
+            "img": "http://imgs.haoservice.com/CaiPu/pic/step/m/66/5b/3693414.jpg",
+            "step": "11.放入烤麸"
+        }]
+    },
+    {
+        "id": 889944,
+        "title": "凉拌黄瓜",
+        "tags": "凉菜;拌;蒜香;",
+        "intro": "初夏来临，新大蒜头也已逐步上市；周末买菜时，已看到有卖的，于是就少买几个回来，随便也买了2根新鲜的黄瓜，用新大蒜头拌黄瓜，可是我家夏天饭桌的常客呢，简单方便又营养~~~",
+        "ingredients": "黄瓜:1根;",
+        "burden": "食盐:1小勺;白糖:1勺;香醋:适量;麻油:适量;味精:少许;花生米:少许;大蒜头:3瓣;",
+        "albums": "http://imgs.haoservice.com/CaiPu/pic/recipe/l/58/94/889944_927c18.jpg",
+        "steps": [{
+            "img": "http://imgs.haoservice.com/CaiPu/pic/step/m/84/53/3691396.jpg",
+            "step": "1.黄瓜洗净，切片"
+        },
+        {
+            "img": "http://imgs.haoservice.com/CaiPu/pic/step/m/85/53/3691397.jpg",
+            "step": "2.放入小盆中，加入1小勺食盐"
+        },
+        {
+            "img": "http://imgs.haoservice.com/CaiPu/pic/step/m/86/53/3691398.jpg",
+            "step": "3.用手轻轻抓匀，腌制5分钟左右"
+        },
+        {
+            "img": "http://imgs.haoservice.com/CaiPu/pic/step/m/87/53/3691399.jpg",
+            "step": "4.倒出多余盐水，并轻轻挤干"
+        },
+        {
+            "img": "http://imgs.haoservice.com/CaiPu/pic/step/m/88/53/3691400.jpg",
+            "step": "5.然后加入1勺白糖、少许味精、滴入适量麻油"
+        },
+        {
+            "img": "http://imgs.haoservice.com/CaiPu/pic/step/m/89/53/3691401.jpg",
+            "step": "6.倒入适量香醋"
+        },
+        {
+            "img": "http://imgs.haoservice.com/CaiPu/pic/step/m/8a/53/3691402.jpg",
+            "step": "7.新大蒜瓣剥开，用刀拍碎放入"
+        },
+        {
+            "img": "http://imgs.haoservice.com/CaiPu/pic/step/m/8b/53/3691403.jpg",
+            "step": "8.用筷子拌盘即可"
+        }]
+    },
+    {
+        "id": 889867,
+        "title": "老醋木耳",
+        "tags": "凉菜;家常菜;拌;",
+        "intro": "不减肥徒伤悲的五月马上就来了，今天晚饭做个清肠的凉拌菜。",
+        "ingredients": "木耳:5g;红椒:小半个;",
+        "burden": "陈醋:150g;生抽:100g;糖:100g;芝麻油:少许;葱丝:适量;香菜:适量;",
+        "albums": "http://imgs.haoservice.com/CaiPu/pic/recipe/l/0b/94/889867_5d4a50.jpg",
+        "steps": [{
+            "img": "http://imgs.haoservice.com/CaiPu/pic/step/m/2f/52/3691055.jpg",
+            "step": "1.提前半天浸泡木耳。"
+        },
+        {
+            "img": "http://imgs.haoservice.com/CaiPu/pic/step/m/30/52/3691056.jpg",
+            "step": "2.木耳、葱丝、香菜、辣椒丝和调料混合，拌匀。"
+        },
+        {
+            "img": "http://imgs.haoservice.com/CaiPu/pic/step/m/31/52/3691057.jpg",
+            "step": "3.浇上芝麻油，装盘。"
+        },
+        {
+            "img": "http://imgs.haoservice.com/CaiPu/pic/step/m/32/52/3691058.jpg",
+            "step": "4.成品～"
+        },
+        {
+            "img": "http://imgs.haoservice.com/CaiPu/pic/step/m/33/52/3691059.jpg",
+            "step": "5.成品～"
+        }]
+    },
+    {
+        "id": 889859,
+        "title": "酸辣金针菇",
+        "tags": "下酒菜;减肥;家常菜;快手菜;排毒;煮;素菜;聚会;香辣;",
+        "intro": "金针菇中，赖氨酸的含量特别高，有助于儿童智力发展，这道酸辣金针菇，焦香适口，赶紧为家中的小朋友们动手试试吧！",
+        "ingredients": "金针菇:300g;",
+        "burden": "盐:适量;干辣椒:适量;味极鲜:适量;麻油:适量;陈醋:适量;",
+        "albums": "http://imgs.haoservice.com/CaiPu/pic/recipe/l/03/94/889859_258f03.jpg",
+        "steps": [{
+            "img": "http://imgs.haoservice.com/CaiPu/pic/step/m/47/52/3691079.jpg",
+            "step": "1.首先将金针菇去根。"
+        },
+        {
+            "img": "http://imgs.haoservice.com/CaiPu/pic/step/m/48/52/3691080.jpg",
+            "step": "2.锅中倒入清水，水开时，加一勺盐，将金针菇倒入锅中，焯水至变软后捞出，装入碗中。"
+        },
+        {
+            "img": "http://imgs.haoservice.com/CaiPu/pic/step/m/49/52/3691081.jpg",
+            "step": "3.锅中倒入油，烧热后，倒入干辣椒，炸干，捞出备用。"
+        },
+        {
+            "img": "http://imgs.haoservice.com/CaiPu/pic/step/m/4a/52/3691082.jpg",
+            "step": "4.将炸好的干辣椒切碎，装入碗中，加半勺盐，三勺陈醋，一勺麻油，三勺味极鲜，拌均匀。"
+        },
+        {
+            "img": "http://imgs.haoservice.com/CaiPu/pic/step/m/4b/52/3691083.jpg",
+            "step": "5.最后将调好的碗汁，淋在金针菇上，就制作完成啦！"
+        }]
+    },
+    {
+        "id": 889687,
+        "title": "自制冷皮",
+        "tags": "凉菜;开胃;拌;酸辣;",
+        "intro": "夏天天气热最不想吃的就是热饭热菜了，今天就来一道凉皮",
+        "ingredients": "面粉:200;盐:适量;黄瓜:1根;胡萝卜:1根;花生米:30;",
+        "burden": "油:适量;盐:适量;醋:适量;生抽:适量;辣椒油:适量;",
+        "albums": "http://imgs.haoservice.com/CaiPu/pic/recipe/l/57/93/889687_c91dd7.jpg",
+        "steps": [{
+            "img": "http://imgs.haoservice.com/CaiPu/pic/step/m/fb/4d/3689979.jpg",
+            "step": "1.面粉200克"
+        },
+        {
+            "img": "http://imgs.haoservice.com/CaiPu/pic/step/m/fc/4d/3689980.jpg",
+            "step": "2.加盐加水"
+        },
+        {
+            "img": "http://imgs.haoservice.com/CaiPu/pic/step/m/fd/4d/3689981.jpg",
+            "step": "3.揉成面团醒一小时"
+        },
+        {
+            "img": "http://imgs.haoservice.com/CaiPu/pic/step/m/fe/4d/3689982.jpg",
+            "step": "4.然后放水里洗面，一直不停的洗，洗到水发白，然后把面团洗到最小"
+        },
+        {
+            "img": "http://imgs.haoservice.com/CaiPu/pic/step/m/ff/4d/3689983.jpg",
+            "step": "5.洗好面团的水倒入一个大盆里，放冰箱静呆一个晚上"
+        },
+        {
+            "img": "http://imgs.haoservice.com/CaiPu/pic/step/m/00/4e/3689984.jpg",
+            "step": "6.这是洗好的面团，变的很小了(洗好的面团加点酵母要醒一小时上锅蒸就成面盘筋了）"
+        },
+        {
+            "img": "http://imgs.haoservice.com/CaiPu/pic/step/m/01/4e/3689985.jpg",
+            "step": "7.一个晚上后洗面的水沉淀了，然后倒掉表面的清水，只能靠近淀粉表面一层清水"
+        },
+        {
+            "img": "http://imgs.haoservice.com/CaiPu/pic/step/m/02/4e/3689986.jpg",
+            "step": "8.然后用丸子搅拌均匀"
+        },
+        {
+            "img": "http://imgs.haoservice.com/CaiPu/pic/step/m/03/4e/3689987.jpg",
+            "step": "9.锅里水烧开，拿一个披萨盘表面上一层油倒入搅拌好的面糊上锅蒸两分钟"
+        },
+        {
+            "img": "http://imgs.haoservice.com/CaiPu/pic/step/m/04/4e/3689988.jpg",
+            "step": "10.，二分钟后拿出来蒸至面糊起泡，然后冷却后脱模"
+        },
+        {
+            "img": "http://imgs.haoservice.com/CaiPu/pic/step/m/05/4e/3689989.jpg",
+            "step": "11.然后切成小一条一小条"
+        },
+        {
+            "img": "http://imgs.haoservice.com/CaiPu/pic/step/m/06/4e/3689990.jpg",
+            "step": "12.切好所有的面皮放凉水里清洗一下"
+        },
+        {
+            "img": "http://imgs.haoservice.com/CaiPu/pic/step/m/07/4e/3689991.jpg",
+            "step": "13.胡萝卜 一根黄瓜一根"
+        },
+        {
+            "img": "http://imgs.haoservice.com/CaiPu/pic/step/m/08/4e/3689992.jpg",
+            "step": "14.锅里放油加入一把花生米炒。炒至花生米熟然后关火，把花生米压碎备用"
+        },
+        {
+            "img": "http://imgs.haoservice.com/CaiPu/pic/step/m/09/4e/3689993.jpg",
+            "step": "15.胡萝卜黄瓜切丝加入凉皮碗里，加入生抽"
+        },
+        {
+            "img": "http://imgs.haoservice.com/CaiPu/pic/step/m/0a/4e/3689994.jpg",
+            "step": "16.鸡精 盐"
+        },
+        {
+            "img": "http://imgs.haoservice.com/CaiPu/pic/step/m/0b/4e/3689995.jpg",
+            "step": "17.加入醋"
+        },
+        {
+            "img": "http://imgs.haoservice.com/CaiPu/pic/step/m/0c/4e/3689996.jpg",
+            "step": "18.加香油"
+        },
+        {
+            "img": "http://imgs.haoservice.com/CaiPu/pic/step/m/0d/4e/3689997.jpg",
+            "step": "19.加辣椒油"
+        },
+        {
+            "img": "http://imgs.haoservice.com/CaiPu/pic/step/m/0e/4e/3689998.jpg",
+            "step": "20.加入压碎的花生米"
+        },
+        {
+            "img": "http://imgs.haoservice.com/CaiPu/pic/step/m/0f/4e/3689999.jpg",
+            "step": "21.搅拌均匀即可装盘吃了"
+        }]
+    },
+    {
+        "id": 889630,
+        "title": "紫甘蓝拌玉米",
+        "tags": "凉菜;抗氧化;拌;",
+        "intro": "紫甘蓝也叫紫圆白菜，叶片紫红，叶面有蜡粉，叶球近圆形。营养丰富，尤其含有丰富的维生素C、V和较多的维生素E和B族。",
+        "ingredients": "玉米:100g;甘蓝菜:100g;",
+        "burden": "辣椒油:适量;盐:适量;姜:适量;蒜:适量;葱:适量;鸡精:半勺;白糖:半勺;麻油:1/3勺;",
+        "albums": "http://imgs.haoservice.com/CaiPu/pic/recipe/l/1e/93/889630_ef3295.jpg",
+        "steps": [{
+            "img": "http://imgs.haoservice.com/CaiPu/pic/step/m/aa/4c/3689642.jpg",
+            "step": "1.准备好甘蓝和玉米。"
+        },
+        {
+            "img": "http://imgs.haoservice.com/CaiPu/pic/step/m/ab/4c/3689643.jpg",
+            "step": "2.锅加水，放入玉米煮熟。"
+        },
+        {
+            "img": "http://imgs.haoservice.com/CaiPu/pic/step/m/b6/4c/3689654.jpg",
+            "step": "3.捞出玉米。"
+        },
+        {
+            "img": "http://imgs.haoservice.com/CaiPu/pic/step/m/ac/4c/3689644.jpg",
+            "step": "4.紫甘蓝洗净切丝。"
+        },
+        {
+            "img": "http://imgs.haoservice.com/CaiPu/pic/step/m/ad/4c/3689645.jpg",
+            "step": "5.加点拌匀腌一下。"
+        },
+        {
+            "img": "http://imgs.haoservice.com/CaiPu/pic/step/m/ae/4c/3689646.jpg",
+            "step": "6.切点姜蒜葱，加辣椒酱，酱油，鸡精，糖，麻油调成汁。"
+        },
+        {
+            "img": "http://imgs.haoservice.com/CaiPu/pic/step/m/b7/4c/3689655.jpg",
+            "step": "7.甘蓝菜去掉多余水份，加玉米一起。"
+        },
+        {
+            "img": "http://imgs.haoservice.com/CaiPu/pic/step/m/b8/4c/3689656.jpg",
+            "step": "8.浇上料汁。"
+        },
+        {
+            "img": "http://imgs.haoservice.com/CaiPu/pic/step/m/b9/4c/3689657.jpg",
+            "step": "9.拌匀。"
+        },
+        {
+            "img": "http://imgs.haoservice.com/CaiPu/pic/step/m/ba/4c/3689658.jpg",
+            "step": "10.装盘。"
+        }]
+    },
+    {
+        "id": 889518,
+        "title": "银芽紫甘蓝",
+        "tags": "凉菜;减肥;春季;素菜;",
+        "intro": "天气越来越热，凉菜在餐桌上的地位稳稳上升，甘蓝菜是一类强身健体的蔬菜。紫甘蓝含有丰富的硫元素，这种元素的主要作用是杀虫止痒，对于各种皮肤瘙痒，湿疹等疾患具有一定疗效，因而经常吃这类蔬菜对于维护皮肤健康十分有益。",
+        "ingredients": "紫甘蓝:300g;豆芽:100g;",
+        "burden": "香油:适量;盐:适量;醋:适量;蒜:适量;白糖:适量;生抽:适量;",
+        "albums": "http://imgs.haoservice.com/CaiPu/pic/recipe/l/ae/92/889518_f5754c.jpg",
+        "steps": [{
+            "img": "http://imgs.haoservice.com/CaiPu/pic/step/m/68/4b/3689320.jpg",
+            "step": "1.备好原料，紫甘蓝剥皮在淡盐水里浸泡十分钟以上"
+        },
+        {
+            "img": "http://imgs.haoservice.com/CaiPu/pic/step/m/69/4b/3689321.jpg",
+            "step": "2.起锅烧水，水开后把豆芽下锅焯水捞出，豆芽很快熟，下锅水开后再过二十秒就可以了"
+        },
+        {
+            "img": "http://imgs.haoservice.com/CaiPu/pic/step/m/6a/4b/3689322.jpg",
+            "step": "3.浸泡好的紫甘蓝切成丝"
+        },
+        {
+            "img": "http://imgs.haoservice.com/CaiPu/pic/step/m/6c/4b/3689324.jpg",
+            "step": "4.蒜切片"
+        },
+        {
+            "img": "http://imgs.haoservice.com/CaiPu/pic/step/m/6d/4b/3689325.jpg",
+            "step": "5.焯好的豆芽过凉，和蒜片一起放入紫甘蓝碗里"
+        },
+        {
+            "img": "http://imgs.haoservice.com/CaiPu/pic/step/m/6f/4b/3689327.jpg",
+            "step": "6.加入适量盐"
+        },
+        {
+            "img": "http://imgs.haoservice.com/CaiPu/pic/step/m/70/4b/3689328.jpg",
+            "step": "7.加入醋和生抽"
+        },
+        {
+            "img": "http://imgs.haoservice.com/CaiPu/pic/step/m/71/4b/3689329.jpg",
+            "step": "8.加入适量白糖"
+        },
+        {
+            "img": "http://imgs.haoservice.com/CaiPu/pic/step/m/73/4b/3689331.jpg",
+            "step": "9.加入香油拌匀即可"
+        }]
+    }]
+}
